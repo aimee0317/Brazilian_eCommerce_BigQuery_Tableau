@@ -1,1 +1,1 @@
-# Brazilian eCommerce Google BigQuery Data visualization with Tableau
+# Brazilian eCommerce Data visualization with BigQuery and Tableau
